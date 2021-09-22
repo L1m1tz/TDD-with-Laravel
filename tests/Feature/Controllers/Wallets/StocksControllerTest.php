@@ -7,7 +7,7 @@ use App\Stock;
 use App\User;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\WithFaker;
-use App\Http\
+use App\Http;
 use Tests\TestCase; 
 
 class StocksControllerTest extends TestCase
